@@ -1,4 +1,4 @@
-# client
+# Cup Cake
 
 ## Project setup
 ```

@@ -1,4 +1,4 @@
-# piaf-vue
+# Cup Cake - Admin Dashboard
 
 ## Project setup
 ```
