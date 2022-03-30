@@ -92,7 +92,7 @@ Rename .env-example to .env
 
 ```
 
-npm start
+node app or npm start
 
 ```
 
