@@ -1,16 +1,103 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7359665&assignment_repo_type=AssignmentRepo)
-# Logo Siber Güvenlik ve Ağ Teknolojileri Full Stack Bootcamp Bitirme Projesi
+##  _Cup Cake_
 
-- Tek sayfadan oluşacak bir e-ticaret sitesi
 
-## Proje Detayları:
+![vue-admin](https://user-images.githubusercontent.com/26042284/160802616-ab21316d-0f54-435a-a97a-316d89dc0ec7.png)
 
-- Vue.js ile tek sayfadan oluşan bir e-ticaret sistemi tasarlayacağız.
-- 10 adet kategori olacak.
-- Tüm backend işlemleri Node.js ile yapılacak.
-- Arayüz Vue.js ile yapılacak.
-- Ürünler API’den çekilecek. İstenilen API kullanılabilir. API’yi kendiniz tasarlayabilirsiniz.
-- ElasticSearch ile ana sayfada arama alanı yapılacak.
-- Winston kullanılacak.
-- Ürüne tıkladığımız zaman bir kutusu ekrana gelecek ve ürünün bilgileri yer alacak.
-- Relational veritabanı için PostgreSQL kullanılacak.
+
+
+- ✨Vue Js ✨
+
+- Node Js
+
+- Elasticsearch
+
+- Postgresql
+
+  
+
+## Clone the repository
+
+  
+
+git clone [https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-caglaozturk](https://github.com/171-Logo-Siber-FullStack-Bootcamp/graduation-project-caglaozturk)
+
+  
+
+
+
+
+##  _For Client and Admin_
+
+### Installation
+
+  
+```sh
+
+cd project_name
+
+npm install
+
+```
+
+### Compiles and hot-reloads for development
+
+```
+
+npm run serve
+
+```
+
+  
+
+### Compiles and minifies for production
+
+```
+
+npm run build
+
+```
+
+  
+
+### Lints and fixes files
+
+```
+
+npm run lint
+
+```
+
+  
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+##  _For Server_
+
+### Installation
+
+  
+```sh
+
+cd project_name
+
+npm install
+
+Rename .env-example to .env
+
+```
+
+### Start the server
+
+```
+
+npm start
+
+```
+
+
+
+
+https://user-images.githubusercontent.com/26042284/160802997-298b254c-1e98-439b-ac74-d92319537182.mp4
+
